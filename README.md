@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mukesh-Selvam/leetHub/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Mukesh-Selvam/leetHub/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Mukesh-Selvam/leetHub/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
