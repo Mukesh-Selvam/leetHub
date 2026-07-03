@@ -10,9 +10,7 @@ public:
             if(count==target) ans++;
             return;
         }
-        count+=nums[i];
-        findsum(i+1,nums,target,count,ans);
-        count-=(2*nums[i]);
-        findsum(i+1,nums,target,count,ans);
+        findsum(i+1,nums,target,count+nums[i],ans);
+        findsum(i+1,nums,target,count-nums[i],ans);
     }
 };
