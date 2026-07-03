@@ -14,7 +14,7 @@ public:
         temp.push_back(nums[i]);
         findsubset(i+1,nums,temp,res);
 
-        temp.erase(temp.begin()+(temp.size()-1));
+        temp.pop_back();
         findsubset(i+1,nums,temp,res);
 
     }
