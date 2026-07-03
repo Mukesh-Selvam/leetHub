@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/Mukesh-Selvam/leetHub/tree/master/0282-expression-add-operators) |
 | [1544-make-the-string-great](https://github.com/Mukesh-Selvam/leetHub/tree/master/1544-make-the-string-great) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mukesh-Selvam/leetHub/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Mukesh-Selvam/leetHub/tree/master/2000-reverse-prefix-of-word) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Mukesh-Selvam/leetHub/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Mukesh-Selvam/leetHub/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/Mukesh-Selvam/leetHub/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/Mukesh-Selvam/leetHub/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -64,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/0078-subsets) |
+| [0282-expression-add-operators](https://github.com/Mukesh-Selvam/leetHub/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
