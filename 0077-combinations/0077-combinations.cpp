@@ -15,7 +15,7 @@ public:
             res.push_back(temp);
             return;
         }
-        if(i==arr.size()) return;
+        if(i==arr.size()|| target<temp.size()) return;
         temp.push_back(arr[i]);
          com(i+1,temp,arr,res,target);
          temp.pop_back();
