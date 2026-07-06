@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mukesh-Selvam/leetHub/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Mukesh-Selvam/leetHub/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/Mukesh-Selvam/leetHub/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Mukesh-Selvam/leetHub/tree/master/0301-remove-invalid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Mukesh-Selvam/leetHub/tree/master/1544-make-the-string-great) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Mukesh-Selvam/leetHub/tree/master/0079-word-search) |
 | [0322-coin-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0322-coin-change) |
 | [0491-non-decreasing-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0494-target-sum) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Mukesh-Selvam/leetHub/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Mukesh-Selvam/leetHub/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/Mukesh-Selvam/leetHub/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Mukesh-Selvam/leetHub/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/0491-non-decreasing-subsequences) |
@@ -110,5 +113,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mukesh-Selvam/leetHub/tree/master/0079-word-search) |
 | [1219-path-with-maximum-gold](https://github.com/Mukesh-Selvam/leetHub/tree/master/1219-path-with-maximum-gold) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Mukesh-Selvam/leetHub/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
