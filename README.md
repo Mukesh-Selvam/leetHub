@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Mukesh-Selvam/leetHub/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0322-coin-change) |
+| [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
 ## Matrix
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Tree
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -148,5 +151,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
