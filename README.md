@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Mukesh-Selvam/leetHub/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0322-coin-change) |
 ## Matrix
@@ -120,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Mukesh-Selvam/leetHub/tree/master/0079-word-search) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -132,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
