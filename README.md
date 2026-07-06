@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0518-coin-change-ii) |
+| [1219-path-with-maximum-gold](https://github.com/Mukesh-Selvam/leetHub/tree/master/1219-path-with-maximum-gold) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Backtracking
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Mukesh-Selvam/leetHub/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0494-target-sum) |
+| [1219-path-with-maximum-gold](https://github.com/Mukesh-Selvam/leetHub/tree/master/1219-path-with-maximum-gold) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Hash Table
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Mukesh-Selvam/leetHub/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0322-coin-change) |
+## Matrix
+|  |
+| ------- |
+| [1219-path-with-maximum-gold](https://github.com/Mukesh-Selvam/leetHub/tree/master/1219-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
