@@ -11,17 +11,17 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* head,vector<int>& ans){
+    void preorder(TreeNode* head,vector<int>& ans){
             if(head){
-                inorder(head->left,ans);
                 ans.push_back(head->val);
-                inorder(head->right,ans);
+                preorder(head->left,ans);
+                preorder(head->right,ans);
             }
     }
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
         vector<int>ans;
-        inorder(root1,ans);
-        inorder(root2,ans);
+        preorder(root1,ans);
+        preorder(root2,ans);
         sort(ans.begin(),ans.end());
         return ans;
     }
