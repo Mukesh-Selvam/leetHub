@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0872-leaf-similar-trees) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0951-flip-equivalent-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Tree
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0872-leaf-similar-trees) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0951-flip-equivalent-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -158,5 +160,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0872-leaf-similar-trees) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0951-flip-equivalent-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
