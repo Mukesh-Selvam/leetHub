@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Mukesh-Selvam/leetHub/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0623-add-one-row-to-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mukesh-Selvam/leetHub/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0623-add-one-row-to-tree) |
 | [0872-leaf-similar-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0951-flip-equivalent-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mukesh-Selvam/leetHub/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0623-add-one-row-to-tree) |
 | [0872-leaf-similar-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0951-flip-equivalent-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mukesh-Selvam/leetHub/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0623-add-one-row-to-tree) |
 | [0872-leaf-similar-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0951-flip-equivalent-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
