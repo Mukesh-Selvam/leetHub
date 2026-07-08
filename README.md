@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Mukesh-Selvam/leetHub/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0623-add-one-row-to-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0669-trim-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Mukesh-Selvam/leetHub/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0951-flip-equivalent-binary-trees) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Mukesh-Selvam/leetHub/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0623-add-one-row-to-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Mukesh-Selvam/leetHub/tree/master/0938-range-sum-of-bst) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mukesh-Selvam/leetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mukesh-Selvam/leetHub/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Mukesh-Selvam/leetHub/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0623-add-one-row-to-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Mukesh-Selvam/leetHub/tree/master/0938-range-sum-of-bst) |
