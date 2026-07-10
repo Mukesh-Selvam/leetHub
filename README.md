@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Mukesh-Selvam/leetHub/tree/master/1219-path-with-maximum-gold) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mukesh-Selvam/leetHub/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mukesh-Selvam/leetHub/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Mukesh-Selvam/leetHub/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mukesh-Selvam/leetHub/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -259,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mukesh-Selvam/leetHub/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
