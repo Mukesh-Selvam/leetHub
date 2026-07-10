@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Mukesh-Selvam/leetHub/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukesh-Selvam/leetHub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/Mukesh-Selvam/leetHub/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0322-coin-change) |
 | [0491-non-decreasing-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0494-target-sum) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukesh-Selvam/leetHub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/Mukesh-Selvam/leetHub/tree/master/0307-range-sum-query-mutable) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Mukesh-Selvam/leetHub/tree/master/0307-range-sum-query-mutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mukesh-Selvam/leetHub/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -269,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mukesh-Selvam/leetHub/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Mukesh-Selvam/leetHub/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Mukesh-Selvam/leetHub/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
