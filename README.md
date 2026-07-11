@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mukesh-Selvam/leetHub/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Mukesh-Selvam/leetHub/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mukesh-Selvam/leetHub/tree/master/0307-range-sum-query-mutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Mukesh-Selvam/leetHub/tree/master/3427-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
