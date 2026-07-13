@@ -3,41 +3,41 @@ private:
     int n;
     vector<int> tree;
 
-    void buildTree(const vector<int>& nums, int treeIndex, int lo, int hi) {
-        if (lo == hi) {
-            tree[treeIndex] = nums[lo];
+    void buildTree(const vector<int>& nums, int i, int l, int h) {
+        if (l==h) {
+            tree[i] = nums[l];
             return;
         }
-        int mid = lo + (hi - lo) / 2;
-        buildTree(nums, 2 * treeIndex + 1, lo, mid);
-        buildTree(nums, 2 * treeIndex + 2, mid + 1, hi);
-        tree[treeIndex] = tree[2 * treeIndex + 1] + tree[2 * treeIndex + 2];
+        int mid=l+(h-l)/2;
+        buildTree(nums,2*i+1,l,mid);
+        buildTree(nums,2*i+2,mid+1,h);
+        tree[i]=tree[2*i+1] + tree[2*i+2];
     }
 
-    void updateTree(int treeIndex, int lo, int hi, int arrIndex, int val) {
-        if (lo == hi) {
-            tree[treeIndex] = val;
+    void updateTree(int i,int l,int h,int arrIndex,int val) {
+        if (l==h) {
+            tree[i]=val;
             return;
         }
-        int mid = lo + (hi - lo) / 2;
-        if (arrIndex <= mid) {
-            updateTree(2 * treeIndex + 1, lo, mid, arrIndex, val);
+        int mid=l+(h-l)/2;
+        if (arrIndex<=mid) {
+            updateTree(2*i+1,l,mid,arrIndex,val);
         } else {
-            updateTree(2 * treeIndex + 2, mid + 1, hi, arrIndex, val);
+            updateTree(2*i+2,mid+1,h,arrIndex,val);
         }
-        tree[treeIndex] = tree[2 * treeIndex + 1] + tree[2 * treeIndex + 2];
+        tree[i]=tree[2*i+1]+tree[2*i+2];
     }
 
-    int queryTree(int treeIndex, int lo, int hi, int i, int j) {
-        if (i > hi || j < lo) {
+    int queryTree(int idx,int l,int h,int i,int j) {
+        if (i>h || j<l) {
             return 0;
         }
-        if (i <= lo && j >= hi) {
-            return tree[treeIndex];
+        if (i<=l && j>=h){
+            return tree[idx];
         }
-        int mid = lo + (hi - lo) / 2;
-        return queryTree(2 * treeIndex + 1, lo, mid, i, j) +
-               queryTree(2 * treeIndex + 2, mid + 1, hi, i, j);
+        int mid = l+(h-l)/2;
+        return queryTree(2*idx+1,l,mid,i,j)+
+               queryTree(2*idx+2,mid+1,h,i,j);
     }
 
 public:
