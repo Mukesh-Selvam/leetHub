@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mukesh-Selvam/leetHub/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Mukesh-Selvam/leetHub/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Mukesh-Selvam/leetHub/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Mukesh-Selvam/leetHub/tree/master/0198-house-robber) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0039-combination-sum) |
+| [0063-unique-paths-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mukesh-Selvam/leetHub/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Mukesh-Selvam/leetHub/tree/master/0079-word-search) |
 | [1219-path-with-maximum-gold](https://github.com/Mukesh-Selvam/leetHub/tree/master/1219-path-with-maximum-gold) |
 ## Depth-First Search
