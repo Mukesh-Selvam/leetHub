@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Mukesh-Selvam/leetHub/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mukesh-Selvam/leetHub/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0516-longest-palindromic-subsequence) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukesh-Selvam/leetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Mukesh-Selvam/leetHub/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0491-non-decreasing-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0518-coin-change-ii) |
