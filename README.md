@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Mukesh-Selvam/leetHub/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/Mukesh-Selvam/leetHub/tree/master/0461-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/0491-non-decreasing-subsequences) |
 ## Dynamic Programming
 |  |
