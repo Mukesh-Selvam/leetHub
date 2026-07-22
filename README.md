@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Mukesh-Selvam/leetHub/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Mukesh-Selvam/leetHub/tree/master/3446-sort-matrix-by-diagonals) |
 ## Backtracking
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mukesh-Selvam/leetHub/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Mukesh-Selvam/leetHub/tree/master/3446-sort-matrix-by-diagonals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mukesh-Selvam/leetHub/tree/master/0079-word-search) |
 | [1219-path-with-maximum-gold](https://github.com/Mukesh-Selvam/leetHub/tree/master/1219-path-with-maximum-gold) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Mukesh-Selvam/leetHub/tree/master/3446-sort-matrix-by-diagonals) |
 ## Depth-First Search
 |  |
 | ------- |
