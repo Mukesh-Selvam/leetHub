@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Mukesh-Selvam/leetHub/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mukesh-Selvam/leetHub/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mukesh-Selvam/leetHub/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Mukesh-Selvam/leetHub/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Mukesh-Selvam/leetHub/tree/master/1046-last-stone-weight) |
 | [1219-path-with-maximum-gold](https://github.com/Mukesh-Selvam/leetHub/tree/master/1219-path-with-maximum-gold) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Mukesh-Selvam/leetHub/tree/master/1409-queries-on-a-permutation-with-key) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Mukesh-Selvam/leetHub/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mukesh-Selvam/leetHub/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Mukesh-Selvam/leetHub/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mukesh-Selvam/leetHub/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/0491-non-decreasing-subsequences) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Mukesh-Selvam/leetHub/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Sorting
 |  |
