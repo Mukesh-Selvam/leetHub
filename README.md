@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mukesh-Selvam/leetHub/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Mukesh-Selvam/leetHub/tree/master/2000-reverse-prefix-of-word) |
+| [2460-apply-operations-to-an-array](https://github.com/Mukesh-Selvam/leetHub/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-queries-on-a-permutation-with-key](https://github.com/Mukesh-Selvam/leetHub/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Mukesh-Selvam/leetHub/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mukesh-Selvam/leetHub/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2460-apply-operations-to-an-array](https://github.com/Mukesh-Selvam/leetHub/tree/master/2460-apply-operations-to-an-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Mukesh-Selvam/leetHub/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mukesh-Selvam/leetHub/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Mukesh-Selvam/leetHub/tree/master/1409-queries-on-a-permutation-with-key) |
+| [2460-apply-operations-to-an-array](https://github.com/Mukesh-Selvam/leetHub/tree/master/2460-apply-operations-to-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mukesh-Selvam/leetHub/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Binary Indexed Tree
