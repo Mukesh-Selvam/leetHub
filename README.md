@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mukesh-Selvam/leetHub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1544-make-the-string-great](https://github.com/Mukesh-Selvam/leetHub/tree/master/1544-make-the-string-great) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/Mukesh-Selvam/leetHub/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mukesh-Selvam/leetHub/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Mukesh-Selvam/leetHub/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mukesh-Selvam/leetHub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/Mukesh-Selvam/leetHub/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Memoization
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/0491-non-decreasing-subsequences) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/Mukesh-Selvam/leetHub/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Mukesh-Selvam/leetHub/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Sorting
@@ -359,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2073-time-needed-to-buy-tickets) |
+## Enumeration
+|  |
+| ------- |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/Mukesh-Selvam/leetHub/tree/master/1638-count-substrings-that-differ-by-one-character) |
 <!---LeetCode Topics End-->
