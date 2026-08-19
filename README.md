@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Mukesh-Selvam/leetHub/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/Mukesh-Selvam/leetHub/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0598-range-addition-ii) |
+| [0788-rotated-digits](https://github.com/Mukesh-Selvam/leetHub/tree/master/0788-rotated-digits) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Mukesh-Selvam/leetHub/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0518-coin-change-ii) |
 | [0553-optimal-division](https://github.com/Mukesh-Selvam/leetHub/tree/master/0553-optimal-division) |
+| [0788-rotated-digits](https://github.com/Mukesh-Selvam/leetHub/tree/master/0788-rotated-digits) |
 | [1035-uncrossed-lines](https://github.com/Mukesh-Selvam/leetHub/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/1143-longest-common-subsequence) |
