@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Mukesh-Selvam/leetHub/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Mukesh-Selvam/leetHub/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Mukesh-Selvam/leetHub/tree/master/0301-remove-invalid-parentheses) |
+| [0394-decode-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mukesh-Selvam/leetHub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mukesh-Selvam/leetHub/tree/master/0144-binary-tree-preorder-traversal) |
+| [0394-decode-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0394-decode-string) |
 | [1544-make-the-string-great](https://github.com/Mukesh-Selvam/leetHub/tree/master/1544-make-the-string-great) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mukesh-Selvam/leetHub/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Mukesh-Selvam/leetHub/tree/master/2000-reverse-prefix-of-word) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mukesh-Selvam/leetHub/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Mukesh-Selvam/leetHub/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mukesh-Selvam/leetHub/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Mukesh-Selvam/leetHub/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Mukesh-Selvam/leetHub/tree/master/0509-fibonacci-number) |
 ## Math
