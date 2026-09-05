@@ -388,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Mukesh-Selvam/leetHub/tree/master/0413-arithmetic-slices) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
