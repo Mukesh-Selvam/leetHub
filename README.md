@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mukesh-Selvam/leetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0394-decode-string) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Mukesh-Selvam/leetHub/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1544-make-the-string-great](https://github.com/Mukesh-Selvam/leetHub/tree/master/1544-make-the-string-great) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mukesh-Selvam/leetHub/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Mukesh-Selvam/leetHub/tree/master/2000-reverse-prefix-of-word) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Mukesh-Selvam/leetHub/tree/master/0419-battleships-in-a-board) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mukesh-Selvam/leetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Mukesh-Selvam/leetHub/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0623-add-one-row-to-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0669-trim-a-binary-search-tree) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Mukesh-Selvam/leetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mukesh-Selvam/leetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Mukesh-Selvam/leetHub/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0623-add-one-row-to-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0669-trim-a-binary-search-tree) |
