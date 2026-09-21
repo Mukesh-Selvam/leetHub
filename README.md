@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Mukesh-Selvam/leetHub/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Mukesh-Selvam/leetHub/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/Mukesh-Selvam/leetHub/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mukesh-Selvam/leetHub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mukesh-Selvam/leetHub/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Mukesh-Selvam/leetHub/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Mukesh-Selvam/leetHub/tree/master/0282-expression-add-operators) |
+| [0412-fizz-buzz](https://github.com/Mukesh-Selvam/leetHub/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Mukesh-Selvam/leetHub/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Mukesh-Selvam/leetHub/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/Mukesh-Selvam/leetHub/tree/master/0553-optimal-division) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Mukesh-Selvam/leetHub/tree/master/0412-fizz-buzz) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Mukesh-Selvam/leetHub/tree/master/1409-queries-on-a-permutation-with-key) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2073-time-needed-to-buy-tickets) |
 | [2460-apply-operations-to-an-array](https://github.com/Mukesh-Selvam/leetHub/tree/master/2460-apply-operations-to-an-array) |
