@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/0623-add-one-row-to-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Mukesh-Selvam/leetHub/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Matrix
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0951-flip-equivalent-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mukesh-Selvam/leetHub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Tree
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0951-flip-equivalent-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mukesh-Selvam/leetHub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
