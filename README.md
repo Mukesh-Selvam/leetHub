@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Mukesh-Selvam/leetHub/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0516-longest-palindromic-subsequence) |
+| [0796-rotate-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mukesh-Selvam/leetHub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1332-remove-palindromic-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/1332-remove-palindromic-subsequences) |
@@ -421,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
