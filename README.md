@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Mukesh-Selvam/leetHub/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Mukesh-Selvam/leetHub/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/Mukesh-Selvam/leetHub/tree/master/0553-optimal-division) |
+| [0593-valid-square](https://github.com/Mukesh-Selvam/leetHub/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0598-range-addition-ii) |
 | [0788-rotated-digits](https://github.com/Mukesh-Selvam/leetHub/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
@@ -426,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0796-rotate-string) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Mukesh-Selvam/leetHub/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
