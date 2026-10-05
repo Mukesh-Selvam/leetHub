@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0598-range-addition-ii) |
 | [0788-rotated-digits](https://github.com/Mukesh-Selvam/leetHub/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/1140-stone-game-ii) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Mukesh-Selvam/leetHub/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
 | [1035-uncrossed-lines](https://github.com/Mukesh-Selvam/leetHub/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/1043-partition-array-for-maximum-sum) |
+| [1140-stone-game-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mukesh-Selvam/leetHub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Mukesh-Selvam/leetHub/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Mukesh-Selvam/leetHub/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/Mukesh-Selvam/leetHub/tree/master/1046-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/1140-stone-game-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Mukesh-Selvam/leetHub/tree/master/1219-path-with-maximum-gold) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Mukesh-Selvam/leetHub/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Mukesh-Selvam/leetHub/tree/master/1733-minimum-number-of-people-to-teach) |
@@ -389,12 +392,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/1140-stone-game-ii) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Mukesh-Selvam/leetHub/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mukesh-Selvam/leetHub/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/1140-stone-game-ii) |
 ## Queue
 |  |
 | ------- |
@@ -419,10 +424,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/1140-stone-game-ii) |
 ## String Matching
 |  |
 | ------- |
