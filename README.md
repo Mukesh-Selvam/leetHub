@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mukesh-Selvam/leetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0860-lemonade-change) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Mukesh-Selvam/leetHub/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mukesh-Selvam/leetHub/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mukesh-Selvam/leetHub/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Mukesh-Selvam/leetHub/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0598-range-addition-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mukesh-Selvam/leetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
 | [1035-uncrossed-lines](https://github.com/Mukesh-Selvam/leetHub/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/1043-partition-array-for-maximum-sum) |
