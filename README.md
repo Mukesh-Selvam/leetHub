@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Mukesh-Selvam/leetHub/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mukesh-Selvam/leetHub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Mukesh-Selvam/leetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0394-decode-string) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Mukesh-Selvam/leetHub/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0678-valid-parenthesis-string) |
 | [1544-make-the-string-great](https://github.com/Mukesh-Selvam/leetHub/tree/master/1544-make-the-string-great) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mukesh-Selvam/leetHub/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Mukesh-Selvam/leetHub/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mukesh-Selvam/leetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0860-lemonade-change) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Mukesh-Selvam/leetHub/tree/master/1733-minimum-number-of-people-to-teach) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Mukesh-Selvam/leetHub/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/Mukesh-Selvam/leetHub/tree/master/0553-optimal-division) |
+| [0678-valid-parenthesis-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mukesh-Selvam/leetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0788-rotated-digits](https://github.com/Mukesh-Selvam/leetHub/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
@@ -440,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Mukesh-Selvam/leetHub/tree/master/0593-valid-square) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
