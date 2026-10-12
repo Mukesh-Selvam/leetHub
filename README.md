@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Mukesh-Selvam/leetHub/tree/master/0461-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Mukesh-Selvam/leetHub/tree/master/0526-beautiful-arrangement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Mukesh-Selvam/leetHub/tree/master/0693-binary-number-with-alternating-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
