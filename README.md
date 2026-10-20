@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/Mukesh-Selvam/leetHub/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0598-range-addition-ii) |
 | [0788-rotated-digits](https://github.com/Mukesh-Selvam/leetHub/tree/master/0788-rotated-digits) |
+| [0789-escape-the-ghosts](https://github.com/Mukesh-Selvam/leetHub/tree/master/0789-escape-the-ghosts) |
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/1140-stone-game-ii) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Mukesh-Selvam/leetHub/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0598-range-addition-ii) |
 | [0682-baseball-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mukesh-Selvam/leetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0789-escape-the-ghosts](https://github.com/Mukesh-Selvam/leetHub/tree/master/0789-escape-the-ghosts) |
 | [0860-lemonade-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
 | [1035-uncrossed-lines](https://github.com/Mukesh-Selvam/leetHub/tree/master/1035-uncrossed-lines) |
