@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mukesh-Selvam/leetHub/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Mukesh-Selvam/leetHub/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0516-longest-palindromic-subsequence) |
+| [0539-minimum-time-difference](https://github.com/Mukesh-Selvam/leetHub/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Mukesh-Selvam/leetHub/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0796-rotate-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Mukesh-Selvam/leetHub/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Mukesh-Selvam/leetHub/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Mukesh-Selvam/leetHub/tree/master/0509-fibonacci-number) |
+| [0539-minimum-time-difference](https://github.com/Mukesh-Selvam/leetHub/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Mukesh-Selvam/leetHub/tree/master/0553-optimal-division) |
 | [0593-valid-square](https://github.com/Mukesh-Selvam/leetHub/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0598-range-addition-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Mukesh-Selvam/leetHub/tree/master/0526-beautiful-arrangement) |
+| [0539-minimum-time-difference](https://github.com/Mukesh-Selvam/leetHub/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Mukesh-Selvam/leetHub/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0598-range-addition-ii) |
 | [0682-baseball-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0682-baseball-game) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukesh-Selvam/leetHub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/Mukesh-Selvam/leetHub/tree/master/0539-minimum-time-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mukesh-Selvam/leetHub/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
