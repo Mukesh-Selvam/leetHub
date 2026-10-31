@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Mukesh-Selvam/leetHub/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/Mukesh-Selvam/leetHub/tree/master/0789-escape-the-ghosts) |
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
+| [0939-minimum-area-rectangle](https://github.com/Mukesh-Selvam/leetHub/tree/master/0939-minimum-area-rectangle) |
 | [1140-stone-game-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/1140-stone-game-ii) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Mukesh-Selvam/leetHub/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/Mukesh-Selvam/leetHub/tree/master/0789-escape-the-ghosts) |
 | [0860-lemonade-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
+| [0939-minimum-area-rectangle](https://github.com/Mukesh-Selvam/leetHub/tree/master/0939-minimum-area-rectangle) |
 | [1035-uncrossed-lines](https://github.com/Mukesh-Selvam/leetHub/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/Mukesh-Selvam/leetHub/tree/master/1046-last-stone-weight) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Mukesh-Selvam/leetHub/tree/master/0409-longest-palindrome) |
 | [0491-non-decreasing-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/0491-non-decreasing-subsequences) |
+| [0939-minimum-area-rectangle](https://github.com/Mukesh-Selvam/leetHub/tree/master/0939-minimum-area-rectangle) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Mukesh-Selvam/leetHub/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Mukesh-Selvam/leetHub/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukesh-Selvam/leetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Mukesh-Selvam/leetHub/tree/master/0539-minimum-time-difference) |
+| [0939-minimum-area-rectangle](https://github.com/Mukesh-Selvam/leetHub/tree/master/0939-minimum-area-rectangle) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mukesh-Selvam/leetHub/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Mukesh-Selvam/leetHub/tree/master/0593-valid-square) |
+| [0939-minimum-area-rectangle](https://github.com/Mukesh-Selvam/leetHub/tree/master/0939-minimum-area-rectangle) |
 ## Bracket Sequences
 |  |
 | ------- |
