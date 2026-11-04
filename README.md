@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Mukesh-Selvam/leetHub/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/Mukesh-Selvam/leetHub/tree/master/0553-optimal-division) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mukesh-Selvam/leetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0788-rotated-digits](https://github.com/Mukesh-Selvam/leetHub/tree/master/0788-rotated-digits) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Mukesh-Selvam/leetHub/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Mukesh-Selvam/leetHub/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0598-range-addition-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mukesh-Selvam/leetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0789-escape-the-ghosts](https://github.com/Mukesh-Selvam/leetHub/tree/master/0789-escape-the-ghosts) |
@@ -410,11 +412,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mukesh-Selvam/leetHub/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Mukesh-Selvam/leetHub/tree/master/1409-queries-on-a-permutation-with-key) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mukesh-Selvam/leetHub/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -473,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Mukesh-Selvam/leetHub/tree/master/1741-find-total-time-spent-by-each-employee) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
