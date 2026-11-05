@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Mukesh-Selvam/leetHub/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0951-flip-equivalent-binary-trees) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mukesh-Selvam/leetHub/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Mukesh-Selvam/leetHub/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0951-flip-equivalent-binary-trees) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mukesh-Selvam/leetHub/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Mukesh-Selvam/leetHub/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/0951-flip-equivalent-binary-trees) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mukesh-Selvam/leetHub/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mukesh-Selvam/leetHub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mukesh-Selvam/leetHub/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mukesh-Selvam/leetHub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
