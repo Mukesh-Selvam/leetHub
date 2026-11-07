@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
 | [0939-minimum-area-rectangle](https://github.com/Mukesh-Selvam/leetHub/tree/master/0939-minimum-area-rectangle) |
 | [1140-stone-game-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/1140-stone-game-ii) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mukesh-Selvam/leetHub/tree/master/1266-minimum-time-visiting-all-points) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Mukesh-Selvam/leetHub/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Mukesh-Selvam/leetHub/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/1140-stone-game-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Mukesh-Selvam/leetHub/tree/master/1219-path-with-maximum-gold) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mukesh-Selvam/leetHub/tree/master/1266-minimum-time-visiting-all-points) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Mukesh-Selvam/leetHub/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Mukesh-Selvam/leetHub/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2073-time-needed-to-buy-tickets) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0593-valid-square](https://github.com/Mukesh-Selvam/leetHub/tree/master/0593-valid-square) |
 | [0939-minimum-area-rectangle](https://github.com/Mukesh-Selvam/leetHub/tree/master/0939-minimum-area-rectangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mukesh-Selvam/leetHub/tree/master/1266-minimum-time-visiting-all-points) |
 ## Bracket Sequences
 |  |
 | ------- |
