@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
 | [0939-minimum-area-rectangle](https://github.com/Mukesh-Selvam/leetHub/tree/master/0939-minimum-area-rectangle) |
 | [1140-stone-game-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/1140-stone-game-ii) |
+| [1185-day-of-the-week](https://github.com/Mukesh-Selvam/leetHub/tree/master/1185-day-of-the-week) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mukesh-Selvam/leetHub/tree/master/1266-minimum-time-visiting-all-points) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Mukesh-Selvam/leetHub/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
