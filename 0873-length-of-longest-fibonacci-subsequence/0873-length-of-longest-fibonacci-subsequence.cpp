@@ -2,7 +2,7 @@ class Solution {
 public:
     int lenLongestFibSubseq(vector<int>& arr) {
         int n = arr.size();
-        // dp[r][i] stores the length of the Fibonacci-like subsequence ending with arr[r], arr[i]
+       
         vector<vector<int>> dp(n, vector<int>(n, 0));
         int maxLen = 0;
 
