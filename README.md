@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Mukesh-Selvam/leetHub/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Mukesh-Selvam/leetHub/tree/master/0696-count-binary-substrings) |
+| [1089-duplicate-zeros](https://github.com/Mukesh-Selvam/leetHub/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/1332-remove-palindromic-subsequences) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mukesh-Selvam/leetHub/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Mukesh-Selvam/leetHub/tree/master/2000-reverse-prefix-of-word) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Mukesh-Selvam/leetHub/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/Mukesh-Selvam/leetHub/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/Mukesh-Selvam/leetHub/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/1140-stone-game-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Mukesh-Selvam/leetHub/tree/master/1219-path-with-maximum-gold) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mukesh-Selvam/leetHub/tree/master/1266-minimum-time-visiting-all-points) |
