@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Mukesh-Selvam/leetHub/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Mukesh-Selvam/leetHub/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Mukesh-Selvam/leetHub/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Mukesh-Selvam/leetHub/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Mukesh-Selvam/leetHub/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0516-longest-palindromic-subsequence) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mukesh-Selvam/leetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Mukesh-Selvam/leetHub/tree/master/0402-remove-k-digits) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Mukesh-Selvam/leetHub/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0682-baseball-game) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Mukesh-Selvam/leetHub/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Mukesh-Selvam/leetHub/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mukesh-Selvam/leetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -502,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mukesh-Selvam/leetHub/tree/master/1221-split-a-string-in-balanced-strings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Mukesh-Selvam/leetHub/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
