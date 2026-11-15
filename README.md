@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/Mukesh-Selvam/leetHub/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/Mukesh-Selvam/leetHub/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/Mukesh-Selvam/leetHub/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Mukesh-Selvam/leetHub/tree/master/0553-optimal-division) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Mukesh-Selvam/leetHub/tree/master/0409-longest-palindrome) |
 | [0491-non-decreasing-subsequences](https://github.com/Mukesh-Selvam/leetHub/tree/master/0491-non-decreasing-subsequences) |
+| [0525-contiguous-array](https://github.com/Mukesh-Selvam/leetHub/tree/master/0525-contiguous-array) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0939-minimum-area-rectangle](https://github.com/Mukesh-Selvam/leetHub/tree/master/0939-minimum-area-rectangle) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Mukesh-Selvam/leetHub/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Mukesh-Selvam/leetHub/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/1140-stone-game-ii) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Mukesh-Selvam/leetHub/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Game Theory
