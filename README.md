@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mukesh-Selvam/leetHub/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Mukesh-Selvam/leetHub/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mukesh-Selvam/leetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Mukesh-Selvam/leetHub/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mukesh-Selvam/leetHub/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Mukesh-Selvam/leetHub/tree/master/1733-minimum-number-of-people-to-teach) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mukesh-Selvam/leetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0789-escape-the-ghosts](https://github.com/Mukesh-Selvam/leetHub/tree/master/0789-escape-the-ghosts) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Mukesh-Selvam/leetHub/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/Mukesh-Selvam/leetHub/tree/master/0860-lemonade-change) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Mukesh-Selvam/leetHub/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/Mukesh-Selvam/leetHub/tree/master/0877-stone-game) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Mukesh-Selvam/leetHub/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mukesh-Selvam/leetHub/tree/master/0079-word-search) |
 | [0419-battleships-in-a-board](https://github.com/Mukesh-Selvam/leetHub/tree/master/0419-battleships-in-a-board) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Mukesh-Selvam/leetHub/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1219-path-with-maximum-gold](https://github.com/Mukesh-Selvam/leetHub/tree/master/1219-path-with-maximum-gold) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Mukesh-Selvam/leetHub/tree/master/3446-sort-matrix-by-diagonals) |
 ## Depth-First Search
