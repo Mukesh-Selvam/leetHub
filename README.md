@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mukesh-Selvam/leetHub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Mukesh-Selvam/leetHub/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mukesh-Selvam/leetHub/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Memoization
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mukesh-Selvam/leetHub/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Mukesh-Selvam/leetHub/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mukesh-Selvam/leetHub/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Mukesh-Selvam/leetHub/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Mukesh-Selvam/leetHub/tree/master/3446-sort-matrix-by-diagonals) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mukesh-Selvam/leetHub/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Mukesh-Selvam/leetHub/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mukesh-Selvam/leetHub/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Mukesh-Selvam/leetHub/tree/master/3446-sort-matrix-by-diagonals) |
 ## Combinatorics
 |  |
