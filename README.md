@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/Mukesh-Selvam/leetHub/tree/master/1352-product-of-the-last-k-numbers) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Mukesh-Selvam/leetHub/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mukesh-Selvam/leetHub/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mukesh-Selvam/leetHub/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mukesh-Selvam/leetHub/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mukesh-Selvam/leetHub/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mukesh-Selvam/leetHub/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Mukesh-Selvam/leetHub/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Mukesh-Selvam/leetHub/tree/master/3446-sort-matrix-by-diagonals) |
 ## Backtracking
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Mukesh-Selvam/leetHub/tree/master/1638-count-substrings-that-differ-by-one-character) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mukesh-Selvam/leetHub/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bitmask
 |  |
 | ------- |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Mukesh-Selvam/leetHub/tree/master/0413-arithmetic-slices) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mukesh-Selvam/leetHub/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -531,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Mukesh-Selvam/leetHub/tree/master/0402-remove-k-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mukesh-Selvam/leetHub/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
